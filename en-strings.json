@@ -1,0 +1,2246 @@
+[
+  {
+    "key": "plugins.priceTracker.settings.title",
+    "en": "Price Tracker"
+  },
+  {
+    "key": "plugins.priceTracker.revision",
+    "en": "Revision"
+  },
+  {
+    "key": "plugins.priceTracker.storageError",
+    "en": "Could not access saved players. Reopen the view to retry."
+  },
+  {
+    "key": "plugins.priceTracker.holographic",
+    "en": "Holographic"
+  },
+  {
+    "key": "plugins.priceTracker.add",
+    "en": "Add"
+  },
+  {
+    "key": "plugins.priceTracker.player",
+    "en": "Player"
+  },
+  {
+    "key": "plugins.priceTracker.rating",
+    "en": "Rating"
+  },
+  {
+    "key": "plugins.priceTracker.rarity",
+    "en": "Rarity"
+  },
+  {
+    "key": "plugins.priceTracker.price",
+    "en": "Price"
+  },
+  {
+    "key": "plugins.priceTracker.actions",
+    "en": "Actions"
+  },
+  {
+    "key": "plugins.priceTracker.remove",
+    "en": "Remove"
+  },
+  {
+    "key": "plugins.priceTracker.pending",
+    "en": "Updating…"
+  },
+  {
+    "key": "plugins.priceTracker.unavailable",
+    "en": "Price unavailable"
+  },
+  {
+    "key": "plugins.priceTracker.error",
+    "en": "Search failed. Reopen the view to retry."
+  },
+  {
+    "key": "plugins.priceTracker.empty",
+    "en": "Add a player revision to track its price."
+  },
+  {
+    "key": "plugins.priceTracker.disabled",
+    "en": "Enable Price Tracker and External Market Prices in settings."
+  },
+  {
+    "key": "plugins.priceTracker.loading",
+    "en": "Loading revisions…"
+  },
+  {
+    "key": "plugins.priceTracker.selectPlayer",
+    "en": "Select a player to see their revisions."
+  },
+  {
+    "key": "plugins.priceTracker.noRevisions",
+    "en": "No revisions found."
+  },
+  {
+    "key": "plugins.gallery.settings.title",
+    "en": "Gallery"
+  },
+  {
+    "key": "plugins.gallery.open",
+    "en": "Open Gallery"
+  },
+  {
+    "key": "plugins.gallery.cardFilter",
+    "en": "Show cards"
+  },
+  {
+    "key": "plugins.gallery.cardFilter.all",
+    "en": "All cards"
+  },
+  {
+    "key": "plugins.gallery.cardFilter.tracked",
+    "en": "Collected cards"
+  },
+  {
+    "key": "plugins.gallery.cardFilter.untracked",
+    "en": "Uncollected cards"
+  },
+  {
+    "key": "plugins.gallery.category",
+    "en": "Category"
+  },
+  {
+    "key": "plugins.gallery.set",
+    "en": "Set"
+  },
+  {
+    "key": "plugins.gallery.selectCategory",
+    "en": "Select a category"
+  },
+  {
+    "key": "plugins.gallery.selectSet",
+    "en": "Select a set to view its cards and grading."
+  },
+  {
+    "key": "plugins.gallery.sortBy",
+    "en": "Sort by"
+  },
+  {
+    "key": "plugins.gallery.grading",
+    "en": "Grading summary"
+  },
+  {
+    "key": "plugins.gallery.autoFill",
+    "en": "Auto-fill by score"
+  },
+  {
+    "key": "plugins.gallery.clear",
+    "en": "Clear selection"
+  },
+  {
+    "key": "plugins.gallery.refresh",
+    "en": "Refresh club cards"
+  },
+  {
+    "key": "plugins.gallery.loading",
+    "en": "Loading gallery cards…"
+  },
+  {
+    "key": "plugins.gallery.disabled",
+    "en": "Enable Gallery and Paletools first."
+  },
+  {
+    "key": "plugins.gallery.error",
+    "en": "Could not load this set. Select it again to retry."
+  },
+  {
+    "key": "plugins.gallery.empty",
+    "en": "No eligible cards found."
+  },
+  {
+    "key": "plugins.gallery.availableOnly",
+    "en": "This set spans the full catalogue. Showing eligible club cards and known tracked history; historical Holographics require recorded cosmetic details."
+  },
+  {
+    "key": "plugins.gallery.owned",
+    "en": "Owned"
+  },
+  {
+    "key": "plugins.gallery.tracked",
+    "en": "Collected"
+  },
+  {
+    "key": "plugins.gallery.missing",
+    "en": "Missing"
+  },
+  {
+    "key": "plugins.gallery.points",
+    "en": "points"
+  },
+  {
+    "key": "plugins.gallery.include",
+    "en": "Include"
+  },
+  {
+    "key": "plugins.gallery.exclude",
+    "en": "Remove"
+  },
+  {
+    "key": "plugins.gallery.selected",
+    "en": "cards selected"
+  },
+  {
+    "key": "plugins.gallery.cards",
+    "en": "cards"
+  },
+  {
+    "key": "plugins.gallery.calculatedGrade",
+    "en": "Calculated grade"
+  },
+  {
+    "key": "plugins.gallery.incomplete",
+    "en": "Fill every slot to qualify for a grade."
+  },
+  {
+    "key": "plugins.gallery.toGrade",
+    "en": "points to grade"
+  },
+  {
+    "key": "plugins.gallery.topThreshold",
+    "en": "Top score threshold reached."
+  },
+  {
+    "key": "plugins.gallery.breakdown",
+    "en": "Score breakdown"
+  },
+  {
+    "key": "plugins.gallery.baseScore",
+    "en": "Item scores"
+  },
+  {
+    "key": "plugins.gallery.bonusScore",
+    "en": "Tag bonuses"
+  },
+  {
+    "key": "plugins.gallery.multiplier",
+    "en": "Effective multiplier"
+  },
+  {
+    "key": "plugins.gallery.tokens",
+    "en": "tokens"
+  },
+  {
+    "key": "plugins.gallery.thresholds",
+    "en": "Grades & rewards"
+  },
+  {
+    "key": "plugins.gallery.grade",
+    "en": "Grade"
+  },
+  {
+    "key": "plugins.gallery.requiredScore",
+    "en": "Required points"
+  },
+  {
+    "key": "plugins.gallery.remaining",
+    "en": "Points left"
+  },
+  {
+    "key": "plugins.gallery.rewards",
+    "en": "Rewards"
+  },
+  {
+    "key": "plugins.gallery.bonuses",
+    "en": "Bonus tags & multipliers"
+  },
+  {
+    "key": "plugins.gallery.bonusExplanation",
+    "en": "Each tag applies its highest qualifying tier to the scores of matching cards. Expand a tag to see every tier."
+  },
+  {
+    "key": "plugins.gallery.matchedScore",
+    "en": "Matching item scores"
+  },
+  {
+    "key": "plugins.gallery.toNextBonus",
+    "en": "more matching cards to the next tier"
+  },
+  {
+    "key": "plugins.gallery.estimateNote",
+    "en": "Preview based on your club and collection status, not a submitted in-game grade. Historical first-owner and cosmetic details may be unavailable. Auto-fill starts with the highest item scores; change cards to improve bonuses."
+  },
+  {
+    "key": "plugins.gallery.estimatedItems",
+    "en": "selected cards use the base OVR score because their full item score is unavailable. Rarity or Holographic bonuses may increase the actual result."
+  },
+  {
+    "key": "plugins.gallery.ratingTable",
+    "en": "OVR base score reference"
+  },
+  {
+    "key": "plugins.gallery.rating",
+    "en": "Rating"
+  },
+  {
+    "key": "plugins.album.settings.title",
+    "en": "Album"
+  },
+  {
+    "key": "plugins.album.track",
+    "en": "Track"
+  },
+  {
+    "key": "plugins.album.untrack",
+    "en": "Untrack"
+  },
+  {
+    "key": "plugins.album.markFirstOwner",
+    "en": "Mark as first owner"
+  },
+  {
+    "key": "plugins.album.firstOwnerError",
+    "en": "Could not save first ownership. Please try again."
+  },
+  {
+    "key": "plugins.album.market",
+    "en": "Market"
+  },
+  {
+    "key": "plugins.album.trackingError",
+    "en": "Could not update player tracking. Please try again."
+  },
+  {
+    "key": "plugins.album.open",
+    "en": "Open Album"
+  },
+  {
+    "key": "plugins.album.league",
+    "en": "League"
+  },
+  {
+    "key": "plugins.album.club",
+    "en": "Club"
+  },
+  {
+    "key": "plugins.album.sortBy",
+    "en": "Sort by"
+  },
+  {
+    "key": "plugins.album.sort.tracked",
+    "en": "Collected cards first"
+  },
+  {
+    "key": "plugins.album.sort.rating",
+    "en": "Rating (highest first)"
+  },
+  {
+    "key": "plugins.album.sort.name",
+    "en": "Name (A–Z)"
+  },
+  {
+    "key": "plugins.album.sort.gradingScore",
+    "en": "Grading score (highest first)"
+  },
+  {
+    "key": "plugins.album.selectClub",
+    "en": "Select a club to view its players."
+  },
+  {
+    "key": "plugins.album.hint",
+    "en": "Missing players appear as concepts. Collected players appear in full color based on their collection status."
+  },
+  {
+    "key": "plugins.album.players",
+    "en": "Players"
+  },
+  {
+    "key": "plugins.album.empty",
+    "en": "No players found for this club."
+  },
+  {
+    "key": "plugins.album.loading",
+    "en": "Loading players…"
+  },
+  {
+    "key": "plugins.album.error",
+    "en": "Could not load this club. Select the club again to retry."
+  },
+  {
+    "key": "services.playerTracking.error",
+    "en": "Could not save player history."
+  },
+  {
+    "key": "plugins.album.disabled",
+    "en": "Enable Album and Paletools first."
+  },
+  {
+    "key": "plugins.autoSnipe.open",
+    "en": "Open Auto Snipe"
+  },
+  {
+    "key": "plugins.autoSnipe.settings.title",
+    "en": "Auto Snipe"
+  },
+  {
+    "key": "plugins.autoSnipe.playerName",
+    "en": "Player name"
+  },
+  {
+    "key": "plugins.autoSnipe.player",
+    "en": "Player"
+  },
+  {
+    "key": "plugins.autoSnipe.selectPlayer",
+    "en": "Select a player"
+  },
+  {
+    "key": "plugins.autoSnipe.hint",
+    "en": "Choose any transfer market filters and enter a maximum Buy Now price. Selecting a specific player is optional. Each search and each buy counts as one attempt, including empty searches and unsuccessful buys; Multiple cards can be bought from each result list, up to the total card limit. Leaving this screen stops sniping."
+  },
+  {
+    "key": "plugins.autoSnipe.maxPrice",
+    "en": "Maximum buy now price (coins)"
+  },
+  {
+    "key": "plugins.autoSnipe.delay",
+    "en": "Delay between searches (milliseconds, minimum 1000, randomized ±200)"
+  },
+  {
+    "key": "plugins.autoSnipe.maxSnipes",
+    "en": "Maximum snipe attempts (searches + buys)"
+  },
+  {
+    "key": "plugins.autoSnipe.maxCards",
+    "en": "Number of cards to buy (total)"
+  },
+  {
+    "key": "plugins.autoSnipe.buyDelay",
+    "en": "Delay between buys from the same list (milliseconds, minimum 1000, randomized ±200)"
+  },
+  {
+    "key": "plugins.autoSnipe.start",
+    "en": "Start"
+  },
+  {
+    "key": "plugins.autoSnipe.stop",
+    "en": "Stop"
+  },
+  {
+    "key": "plugins.autoSnipe.stopping",
+    "en": "Stopping after the current request…"
+  },
+  {
+    "key": "plugins.autoSnipe.running",
+    "en": "Sniping…"
+  },
+  {
+    "key": "plugins.autoSnipe.enableFirst",
+    "en": "Enable Auto Snipe and Paletools first."
+  },
+  {
+    "key": "plugins.autoSnipe.invalid",
+    "en": "Enter a maximum Buy Now price, valid price ranges, delays, attempt limit and card limit."
+  },
+  {
+    "key": "plugins.autoSnipe.attempts",
+    "en": "Attempts"
+  },
+  {
+    "key": "plugins.autoSnipe.bought",
+    "en": "Bought"
+  },
+  {
+    "key": "plugins.autoSnipe.purchases",
+    "en": "Purchased cards"
+  },
+  {
+    "key": "plugins.autoSnipe.paidPrice",
+    "en": "Bought for (coins)"
+  },
+  {
+    "key": "plugins.autoSnipe.stopped",
+    "en": "Stopped"
+  },
+  {
+    "key": "plugins.autoSnipe.complete",
+    "en": "Complete"
+  },
+  {
+    "key": "plugins.autoSnipe.httpError",
+    "en": "Request failed; sniping stopped"
+  },
+  {
+    "key": "plugins.autoSnipe.timeout",
+    "en": "Request timed out; sniping stopped"
+  },
+  {
+    "key": "plugins.checkForUpdates.settings.title",
+    "en": "Check for Updates"
+  },
+  {
+    "key": "enabled",
+    "en": "Enabled"
+  },
+  {
+    "key": "valid",
+    "en": "valid"
+  },
+  {
+    "key": "invalid",
+    "en": "invalid"
+  },
+  {
+    "key": "tradeable",
+    "en": "tradeable"
+  },
+  {
+    "key": "ui.loadingPlayers",
+    "en": "Loading club players: {count} loaded"
+  },
+  {
+    "key": "plugins.dangerous",
+    "en": "WARNING: Enabling this plugin could eventually lead to a potential BAN from EA, are you sure you want to continue?"
+  },
+  {
+    "key": "page.restart",
+    "en": "Please reload the page and re-execute Paletools for the changes to take effect"
+  },
+  {
+    "key": "market.itemBuy.success",
+    "en": "Item bought succesfully! - {coins}"
+  },
+  {
+    "key": "confirm",
+    "en": "Are you sure you want to proceed?"
+  },
+  {
+    "key": "loading",
+    "en": "Loading"
+  },
+  {
+    "key": "saving",
+    "en": "Saving"
+  },
+  {
+    "key": "from",
+    "en": "From"
+  },
+  {
+    "key": "to",
+    "en": "To"
+  },
+  {
+    "key": "extinct",
+    "en": "Extinct"
+  },
+  {
+    "key": "market",
+    "en": "Market"
+  },
+  {
+    "key": "import",
+    "en": "Import"
+  },
+  {
+    "key": "export",
+    "en": "Export"
+  },
+  {
+    "key": "clear",
+    "en": "Clear"
+  },
+  {
+    "key": "add",
+    "en": "Add"
+  },
+  {
+    "key": "remove",
+    "en": "Remove"
+  },
+  {
+    "key": "save",
+    "en": "Save"
+  },
+  {
+    "key": "suggest",
+    "en": "Suggest"
+  },
+  {
+    "key": "loadingPlayers",
+    "en": "Loading players... {count} loaded"
+  },
+  {
+    "key": "show",
+    "en": "Show"
+  },
+  {
+    "key": "hide",
+    "en": "Hide"
+  },
+  {
+    "key": "wdl",
+    "en": "W-D-L"
+  },
+  {
+    "key": "pitch",
+    "en": "Pitch"
+  },
+  {
+    "key": "hours",
+    "en": "Hours"
+  },
+  {
+    "key": "minutes",
+    "en": "Minutes"
+  },
+  {
+    "key": "seconds",
+    "en": "Seconds"
+  },
+  {
+    "key": "interval",
+    "en": "Interval"
+  },
+  {
+    "key": "duplicate",
+    "en": "Duplicate"
+  },
+  {
+    "key": "edit",
+    "en": "Edit"
+  },
+  {
+    "key": "use",
+    "en": "Use"
+  },
+  {
+    "key": "hidden",
+    "en": "Hidden"
+  },
+  {
+    "key": "exclude",
+    "en": "Exclude"
+  },
+  {
+    "key": "birthday.title",
+    "en": "Today its June 2nd, its Paleta's Birthday!"
+  },
+  {
+    "key": "toSbc.behavior",
+    "en": "Behavior"
+  },
+  {
+    "key": "toSbc.behavior.position",
+    "en": "Position"
+  },
+  {
+    "key": "toSbc.behavior.lowToHigh",
+    "en": "Lowest To Highest Rating"
+  },
+  {
+    "key": "toSbc.behavior.highToLow",
+    "en": "Highest To Lowest Rating"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.ratings.title",
+    "en": "Ratings"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.ratings.min.label",
+    "en": "Min"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.ratings.max.label",
+    "en": "Max"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.settings.title",
+    "en": "Settings"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.settings.maxPlayers.label",
+    "en": "Players Count"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.search.ignorePlayersPos",
+    "en": "Ignore Players Positions"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.search.importantLeaguesOnly",
+    "en": "Important Leagues Only"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.search.unimportantLeaguesOnly",
+    "en": "Not Important Leagues Only"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.search.importantNationsOnly",
+    "en": "Important Nations Only"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.search.unimportantNationsOnly",
+    "en": "Not Important Nations Only"
+  },
+  {
+    "key": "controls.enhacedSearchFilters.settings.playersFromSameClub.label",
+    "en": "Max Players From Same Club"
+  },
+  {
+    "key": "plugins.settings.title",
+    "en": "Paletools"
+  },
+  {
+    "key": "plugins.settings.reset",
+    "en": "Reset to Defaults"
+  },
+  {
+    "key": "plugins.gridMode.title",
+    "en": "Grid Mode"
+  },
+  {
+    "key": "plugins.wideMode.title",
+    "en": "Wide Mode"
+  },
+  {
+    "key": "plugins.donation.title",
+    "en": "Powered by Paletools"
+  },
+  {
+    "key": "plugins.donation.paypal",
+    "en": "PayPal Donation"
+  },
+  {
+    "key": "plugins.donation.mercadopago",
+    "en": "MercadoPago Donation"
+  },
+  {
+    "key": "plugins.donation.message",
+    "en": "If you enjoy Paletools please consider donating"
+  },
+  {
+    "key": "plugins.compareMinMaxPrices.settings.title",
+    "en": "Compare Prices"
+  },
+  {
+    "key": "plugins.compareMinMaxPrices.minPriceLabel",
+    "en": "Min Buy Now"
+  },
+  {
+    "key": "plugins.compareMinMaxPrices.maxPriceLabel",
+    "en": "Max Buy Now"
+  },
+  {
+    "key": "plugins.playerActions.settings.title",
+    "en": "Player Actions"
+  },
+  {
+    "key": "plugins.playerActions.settings.copyPlayerId",
+    "en": "Enable Copy Player Id"
+  },
+  {
+    "key": "plugins.playerActions.settings.futbinSearch",
+    "en": "Enable FUTBIN search"
+  },
+  {
+    "key": "plugins.playerActions.settings.futggSearch",
+    "en": "Enable FUT.GG search"
+  },
+  {
+    "key": "plugins.playerActions.settings.findLowestPrice",
+    "en": "Find lowest market price"
+  },
+  {
+    "key": "plugins.playerActions.settings.listForProfit",
+    "en": "Quick market list - show buttons"
+  },
+  {
+    "key": "plugins.playerActions.settings.listForProfitAutoPublish",
+    "en": "Quick market list - auto publish"
+  },
+  {
+    "key": "plugins.playerActions.settings.listForProfitDisplayPercentageButtons",
+    "en": "Display % buttons"
+  },
+  {
+    "key": "plugins.playerActions.settings.displayApplyConsumable",
+    "en": "Always display apply consumable"
+  },
+  {
+    "key": "plugins.playerActions.settings.copyPlayerName",
+    "en": "Copy Player Name"
+  },
+  {
+    "key": "plugins.playerActions.settings.removeAllEvolutions",
+    "en": "Remove All Evolutions"
+  },
+  {
+    "key": "plugins.playerActions.copyPlayerId",
+    "en": "Copy Player Id to clipboard"
+  },
+  {
+    "key": "plugins.playerActions.futbinSearch",
+    "en": "FUTBIN search"
+  },
+  {
+    "key": "plugins.playerActions.futggSearch",
+    "en": "FUT.GG search"
+  },
+  {
+    "key": "plugins.playerActions.findLowestPrice.button",
+    "en": "Find lowest market price"
+  },
+  {
+    "key": "plugins.playerActions.findLowestPrice.notFound",
+    "en": "Extinct"
+  },
+  {
+    "key": "plugins.playerActions.findLowestPrice.searching",
+    "en": "Searching..."
+  },
+  {
+    "key": "plugins.playerActions.listForProfit.button.set",
+    "en": "ADD %"
+  },
+  {
+    "key": "plugins.playerActions.listForProfit.button.market",
+    "en": "Cheapest"
+  },
+  {
+    "key": "plugins.playerActions.copyPlayerName",
+    "en": "Copy Player Name"
+  },
+  {
+    "key": "plugins.playerActions.copyPlayerName.success",
+    "en": "Player Name copied to the clipboard"
+  },
+  {
+    "key": "plugins.playerActions.playStylesLab",
+    "en": "PlayStyles Lab"
+  },
+  {
+    "key": "plugins.playerActions.removeAllEvolutions",
+    "en": "Remove All Evolutions"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.title",
+    "en": "Market Search Filters"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.savedFilters",
+    "en": "Enable Saved Filters"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.playerId",
+    "en": "Enable Player Id"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.playerRating",
+    "en": "Enable Player Rating"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.hideDuplicates",
+    "en": "Hide player duplicates in Market Search"
+  },
+  {
+    "key": "plugins.marketSearchFilters.settings.holographicFilters",
+    "en": "Enabled Holographic Filter"
+  },
+  {
+    "key": "plugins.marketSearchFilters.holographicOnly",
+    "en": "Holographic only"
+  },
+  {
+    "key": "plugins.marketSearchFilters.filterSaved",
+    "en": "Filter saved"
+  },
+  {
+    "key": "plugins.marketSearchFilters.filterDeleted",
+    "en": "Filter deleted"
+  },
+  {
+    "key": "plugins.marketSearchFilters.loadFilters",
+    "en": "-- Select a filter to load --"
+  },
+  {
+    "key": "plugins.marketSearchFilters.playerId",
+    "en": "Player ID"
+  },
+  {
+    "key": "plugins.marketSearchFilters.playerRating",
+    "en": "Player Rating"
+  },
+  {
+    "key": "plugins.marketSearchFilters.filter.name",
+    "en": "Filter name"
+  },
+  {
+    "key": "plugins.marketSearchFilters.filter.save",
+    "en": "Save"
+  },
+  {
+    "key": "plugins.marketSearchFilters.filter.delete",
+    "en": "Delete"
+  },
+  {
+    "key": "plugins.marketSearchFilters.playerIdWarning",
+    "en": "This is an experimental feature and could potentially lead to you account being banned, are you sure you want to enable it?"
+  },
+  {
+    "key": "plugins.snipe.settings.title",
+    "en": "Sniping"
+  },
+  {
+    "key": "plugins.snipe.settings.enableDisable",
+    "en": "Enable / Disable"
+  },
+  {
+    "key": "plugins.snipe.settings.results.pressEnter",
+    "en": "Auto press ENTER after buy"
+  },
+  {
+    "key": "plugins.snipe.settings.oneTouch.isEnabled",
+    "en": "One Touch Snipe"
+  },
+  {
+    "key": "plugins.snipe.settings.back",
+    "en": "Go Back"
+  },
+  {
+    "key": "plugins.snipe.settings.search.search",
+    "en": "Search"
+  },
+  {
+    "key": "plugins.snipe.settings.results.buy",
+    "en": "Buy now"
+  },
+  {
+    "key": "plugins.snipe.settings.search.resetBid",
+    "en": "Reset Bid"
+  },
+  {
+    "key": "plugins.snipe.settings.results.bid",
+    "en": "Bid"
+  },
+  {
+    "key": "plugins.snipe.settings.results.transfer",
+    "en": "Send item to transfer list"
+  },
+  {
+    "key": "plugins.snipe.settings.results.club",
+    "en": "Send item to club"
+  },
+  {
+    "key": "plugins.snipe.settings.results.sell",
+    "en": "Quick sell item"
+  },
+  {
+    "key": "plugins.snipe.settings.results.compare",
+    "en": "Compare price"
+  },
+  {
+    "key": "plugins.snipe.settings.lists.up",
+    "en": "Select previous player in lists"
+  },
+  {
+    "key": "plugins.snipe.settings.lists.down",
+    "en": "Select next player in lists"
+  },
+  {
+    "key": "plugins.snipe.settings.lists.prev",
+    "en": "Go to previous page"
+  },
+  {
+    "key": "plugins.snipe.settings.lists.next",
+    "en": "Go to next page"
+  },
+  {
+    "key": "plugins.snipe.settings.search.decMinBid",
+    "en": "Decrease min bid value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.incMinBid",
+    "en": "Increase min bid value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.decMaxBid",
+    "en": "Decrease max bid value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.incMaxBid",
+    "en": "Increase max bid value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.decMinBuy",
+    "en": "Decrease min buy now value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.incMinBuy",
+    "en": "Increase min buy now value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.decMaxBuy",
+    "en": "Decrease max buy now value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.incMaxBuy",
+    "en": "Increase max buy now value"
+  },
+  {
+    "key": "plugins.snipe.settings.search.oneTouchMinBid",
+    "en": "Snipe +Bid"
+  },
+  {
+    "key": "plugins.snipe.settings.search.oneTouchMinBuy",
+    "en": "Snipe +Buy Now"
+  },
+  {
+    "key": "plugins.snipe.settings.oneTouch.displayMinBid",
+    "en": "Display One Touch Snipe +Bid button"
+  },
+  {
+    "key": "plugins.snipe.settings.oneTouch.displayMinBuy",
+    "en": "Display One Touch Snipe +Buy button"
+  },
+  {
+    "key": "plugins.snipe.settings.oneTouch.superMode",
+    "en": "One Touch Smart Mode"
+  },
+  {
+    "key": "plugins.snipe.settings.legacyMode",
+    "en": "Use legacy mode for buying cards (palesnipe 3.1)"
+  },
+  {
+    "key": "plugins.snipe.settings.pick.first",
+    "en": "First Player Pick"
+  },
+  {
+    "key": "plugins.snipe.settings.pick.second",
+    "en": "Second Player Pick"
+  },
+  {
+    "key": "plugins.snipe.settings.pick.third",
+    "en": "Third Player Pick"
+  },
+  {
+    "key": "plugins.snipe.settings.pick.fourth",
+    "en": "Fourth Player Pick"
+  },
+  {
+    "key": "plugins.snipe.settings.pick.fifth",
+    "en": "Fifth Player Pick"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.storeInClub",
+    "en": "Unassigned Store in Club"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.transferList",
+    "en": "Unassigned to Transfer List"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.quickSell",
+    "en": "Unassigned Quick Sell All"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.quickSellNonDuplicates",
+    "en": "Unassigned Quick Sell Non Duplicates"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.quickSellDuplicates",
+    "en": "Unassigned Quick Sell Duplicates"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.sbcStorage",
+    "en": "SBC Storage"
+  },
+  {
+    "key": "plugins.snipe.settings.unassigned.organize",
+    "en": "Organize"
+  },
+  {
+    "key": "plugins.snipe.settings.sbcHub.repeat",
+    "en": "Repeat Last SBC"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.general",
+    "en": "General"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.bid",
+    "en": "Bids"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.transferMarket",
+    "en": "Transfer Market"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.playerPicks",
+    "en": "Player Picks"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.unassigned",
+    "en": "Unassigned"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.sbcHub",
+    "en": "SBCs"
+  },
+  {
+    "key": "plugins.snipe.settings.categories.custom",
+    "en": "Other"
+  },
+  {
+    "key": "plugins.snipe.settings.sounds.enabled",
+    "en": "Sound Alerts"
+  },
+  {
+    "key": "plugins.selectCheapest.settings.title",
+    "en": "Select cheapest player automatically"
+  },
+  {
+    "key": "plugins.selectCheapest.banner.text",
+    "en": "Mas Barato: {name} - {minBuyNow}"
+  },
+  {
+    "key": "plugins.importSbc.settings.title",
+    "en": "Import SBC"
+  },
+  {
+    "key": "plugins.importSbc.settings.exportLabel",
+    "en": "Export Link"
+  },
+  {
+    "key": "plugins.importSbc.settings.exportLink",
+    "en": "Export SBC"
+  },
+  {
+    "key": "plugins.importSbc.settings.installInstructions",
+    "en": "Drag the install link to the bookmarks bar"
+  },
+  {
+    "key": "plugins.importSbc.button.text",
+    "en": "Import SBC"
+  },
+  {
+    "key": "plugins.importSbc.copyError",
+    "en": "There was an error importing the SBC, make sure you use the Export SBC first"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.title",
+    "en": "Auto Solver"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.preferStorage",
+    "en": "Prefer storage first"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.storageOnly",
+    "en": "Use storage only"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.allowSpecialCards",
+    "en": "Allow special cards"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.untradeablesOnly",
+    "en": "Untradeables only"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.reverseSolve",
+    "en": "Reverse solve"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.submitDelay",
+    "en": "Submit delay"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.ignoreEvolutions",
+    "en": "Ignore evolutions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.settings.ignoreSingleRevisionPlayers",
+    "en": "Ignore players with one revision"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.button",
+    "en": "Auto Solve"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.title",
+    "en": "One-click SBC solutions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.challenge",
+    "en": "Challenge"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.solution",
+    "en": "Solution {number}"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.best",
+    "en": "Best solution"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.select",
+    "en": "Select"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.selected",
+    "en": "Selected"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.submit",
+    "en": "Submit selected solution"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.refresh",
+    "en": "Replace players with the same ratings"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.details",
+    "en": "{players} players · Score {score} / {target} · Excess {excess}"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.summary",
+    "en": "Already submitted: {submitted} / {required} · Remaining score: {remaining}"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.exactNote",
+    "en": "Exact-score solutions, fewest players first. Select a solution, then submit its players."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.excessNote",
+    "en": "No exact-score solution exists with your filters and the submission limit. Smallest excess first, then fewest players. Select a solution, then submit its players."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.cancelled",
+    "en": "Auto solving was cancelled."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.invalidScore",
+    "en": "This challenge has an unsupported score requirement or submission limit."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.searchLimit",
+    "en": "There are too many score combinations. Narrow the rating range or use storage only and try again."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.loadFailed",
+    "en": "Could not load the challenge or eligible players. Please try again."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.noChallenges",
+    "en": "No unfinished one-click challenge is available."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.noSolutions",
+    "en": "No solution reaches the remaining score with your filters and the submission limit."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.staleSolution",
+    "en": "The challenge or selected players changed. Go back and generate new solutions."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.submitFailed",
+    "en": "Submission could not be confirmed. Go back and reload the challenge before generating new solutions."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.oneClick.errors.noAlternatives",
+    "en": "No different eligible players can keep this rating combination and score. The current solution is unchanged."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.title",
+    "en": "Auto Solve"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.mode",
+    "en": "Mode"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.repetitions",
+    "en": "Repetitions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.solveAll",
+    "en": "Solve All"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.specify",
+    "en": "Specify how many repetitions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.preferStorage",
+    "en": "Prefer storage first"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.storageOnly",
+    "en": "Use storage only"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.allowSpecialCards",
+    "en": "Allow special cards"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.untradeablesOnly",
+    "en": "Untradeables only"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.reverseSolve",
+    "en": "Reverse solve"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.submitDelay",
+    "en": "Submit delay"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.ignoreEvolutions",
+    "en": "Ignore evolutions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.dialog.ignoreSingleRevisionPlayers",
+    "en": "Ignore players with one revision"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.errors.invalidRepetitions",
+    "en": "Invalid repetitions value"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.errors.noRepetitionsWithoutConceptPlayers",
+    "en": "No repetitions can be solved without concept players."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.errors.noRepetitionsSelected",
+    "en": "Select at least one repetition to submit."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.notifications.submitted",
+    "en": "Submitted"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.notifications.repetitionProgress",
+    "en": "Repetition {current}/{total}"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.notifications.challengeProgress",
+    "en": "Challenge {current}/{total}: {challenge}"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.title",
+    "en": "Auto Solve Preview"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.repetition",
+    "en": "Repetition"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.repetitions",
+    "en": "Repetitions"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.challenges",
+    "en": "Challenges"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.players",
+    "en": "Players"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.targetRating",
+    "en": "Target Rating"
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.stoppedOnConceptPlayers",
+    "en": "Stopped because the next solution requires concept players. Only repetitions without concept players are shown."
+  },
+  {
+    "key": "plugins.sbcAutoSolver.preview.partialSolve",
+    "en": "Only some requested challenges could be solved. Showing solvable challenges only."
+  },
+  {
+    "key": "plugins.markDuplicated.settings.title",
+    "en": "Highlight duplicated players"
+  },
+  {
+    "key": "plugins.improvedPlayerSearch.settings.title",
+    "en": "Improved player search"
+  },
+  {
+    "key": "plugins.sbcSelectMultiplePlayers.settings.title",
+    "en": "Select Multiple Players on SBCs"
+  },
+  {
+    "key": "plugins.filterSbcs.settings.title",
+    "en": "Filter SBCs"
+  },
+  {
+    "key": "plugins.filterSbcs.label",
+    "en": "Search"
+  },
+  {
+    "key": "plugins.filterSbcs.sort.label",
+    "en": "-- Sort By --"
+  },
+  {
+    "key": "plugins.filterSbcs.sort.byId",
+    "en": "Newly added first"
+  },
+  {
+    "key": "plugins.filterSbcs.sort.byEndTime",
+    "en": "Closes expiration first"
+  },
+  {
+    "key": "plugins.filterSbcs.sort.byTimesCompleted",
+    "en": "More Times Completed first"
+  },
+  {
+    "key": "plugins.filterSbcs.sort.byChallengesCompletedCount",
+    "en": "More completed first"
+  },
+  {
+    "key": "plugins.clubAnalyzer.settings.title",
+    "en": "Club Analyzer"
+  },
+  {
+    "key": "plugins.clubAnalyzer.settings.autoRefresh",
+    "en": "Auto Refresh"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.dashboard.description",
+    "en": "Players count (including duplicated, not including loans) in club + unnasigned up to 50, watchlist (won) up to 100 and tradepile"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.loading.players",
+    "en": "Loading players {count} loaded..."
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.loading.usermassinfo",
+    "en": "Loading unassigned players data..."
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.loading.watchlist",
+    "en": "Loading watchlist data..."
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.loading.tradepile",
+    "en": "Loading tradepile data..."
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.loading.process",
+    "en": "Processing information"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.buttons.reload",
+    "en": "Reload"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.buttons.exportCsv",
+    "en": "Export as CSV"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.buttons.exportHtml",
+    "en": "Export as HTML"
+  },
+  {
+    "key": "plugins.clubAnalyzer.view.tab.club",
+    "en": "Bought @ Club"
+  },
+  {
+    "key": "plugins.clubIndex.settings.title",
+    "en": "Club Index"
+  },
+  {
+    "key": "plugins.clubIndex.notifications.loaded",
+    "en": "Club Index: {count} players loaded"
+  },
+  {
+    "key": "plugins.clubPager.settings.title",
+    "en": "Club Pager"
+  },
+  {
+    "key": "plugins.gradingScore.settings.title",
+    "en": "Grading Score"
+  },
+  {
+    "key": "plugins.clubPager.settings.pageSize",
+    "en": "Players Per Page"
+  },
+  {
+    "key": "plugins.sbcTimesCompleted.settings.title",
+    "en": "SBC times completed notification"
+  },
+  {
+    "key": "plugins.countMyPacks.settings.title",
+    "en": "My Packs counter"
+  },
+  {
+    "key": "plugins.myPacks.settings.title",
+    "en": "My Packs"
+  },
+  {
+    "key": "plugins.myPacks.settings.group",
+    "en": "Group"
+  },
+  {
+    "key": "plugins.myPacks.settings.filter",
+    "en": "Filter"
+  },
+  {
+    "key": "plugins.myPacks.settings.search",
+    "en": "Search"
+  },
+  {
+    "key": "plugins.myPacks.settings.packOpener",
+    "en": "Pack Opener"
+  },
+  {
+    "key": "plugins.myPacks.filter.label",
+    "en": "Search My Packs"
+  },
+  {
+    "key": "plugins.myPacks.filter.default",
+    "en": "-- ALL MY PACKS --"
+  },
+  {
+    "key": "plugins.myPacks.packOpener.label",
+    "en": "Open"
+  },
+  {
+    "key": "plugins.myPacks.settings.lock",
+    "en": "Lock"
+  },
+  {
+    "key": "plugins.myPacks.lock.label",
+    "en": "Lock"
+  },
+  {
+    "key": "plugins.myPacks.unlock.label",
+    "en": "Unlock Packs"
+  },
+  {
+    "key": "plugins.myPacks.locked.label",
+    "en": "Locked Packs"
+  },
+  {
+    "key": "plugins.transferListSendAllToClub.settings.title",
+    "en": "Send Non Duplicated From Transfer List to Club"
+  },
+  {
+    "key": "plugins.transferListSendAllToClub.button.text",
+    "en": "Send Non Duplicated To Club"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.title",
+    "en": "SBC Builder Enhacer"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.settings.title",
+    "en": "Settings"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.settings.maxPlayers.label",
+    "en": "Players Count"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.search.ignorePlayersPos",
+    "en": "Ignore Players Positions"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.search.importantLeaguesOnly",
+    "en": "Important Leagues Only"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.search.unimportantLeaguesOnly",
+    "en": "Not Important Leagues Only"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.search.importantNationsOnly",
+    "en": "Important Nations Only"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.search.unimportantNationsOnly",
+    "en": "Not Important Nations Only"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.filter.settings.playersFromSameClub.label",
+    "en": "Max Players From Same Club"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.movePlayersToClubAfterSumbit",
+    "en": "Move Unassigned Players To Club After Submit"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.movePlayersToClubAfterSumbit.all",
+    "en": "All"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.movePlayersToClubAfterSumbit.field",
+    "en": "Used Players"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.movePlayersToClubAfterSumbit.none",
+    "en": "None"
+  },
+  {
+    "key": "plugins.sbcBuilderEnhacer.settings.viewRequirements",
+    "en": "View Requirements"
+  },
+  {
+    "key": "plugins.clubSearchEnhacer.settings.title",
+    "en": "Club Search Enhacer"
+  },
+  {
+    "key": "plugins.clubSearchEnhacer.filterBy.hideLoans",
+    "en": "Hide Loaned Player"
+  },
+  {
+    "key": "plugins.clubSearchEnhacer.filterBy.hideLocked",
+    "en": "Hide Locked Players"
+  },
+  {
+    "key": "plugins.clubSearchEnhacer.filterBy.tradeablesOnly",
+    "en": "Tradeables Only"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.title",
+    "en": "Smart Builder"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.useStorage",
+    "en": "Allow Players From Storage"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.preferStorage",
+    "en": "Prefer storage first"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.storageOnly",
+    "en": "Use Only Players From Storage"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.allowSpecialCards",
+    "en": "Allow special cards"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.ignoreEvolutions",
+    "en": "Ignore evolutions"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.ignoreSingleRevisionPlayers",
+    "en": "Ignore players with one revision"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.ignoreImportantLeagues",
+    "en": "Ignore Important Leagues"
+  },
+  {
+    "key": "plugins.sbcSmartBuilder.settings.ignoreImportantNations",
+    "en": "Ignore Important Nations"
+  },
+  {
+    "key": "plugins.disablePackAnimations.settings.title",
+    "en": "Disable Pack Opening Animations"
+  },
+  {
+    "key": "plugins.disablePackAnimations.settings.override",
+    "en": "Ignore for special cards"
+  },
+  {
+    "key": "plugins.keepPlayerSellValues.settings.title",
+    "en": "Keep player sell values"
+  },
+  {
+    "key": "plugins.sellMultiple.settings.title",
+    "en": "Sell multiple items at once"
+  },
+  {
+    "key": "plugins.sellMultiple.button.text",
+    "en": "Sell Multiple"
+  },
+  {
+    "key": "plugins.sellMultiple.button.quickSellText",
+    "en": "Quick Sell Multiple"
+  },
+  {
+    "key": "plugins.sellMultiple.label.ignoredCards",
+    "en": "Card will be ignored if teh price range does not fall in the provided values"
+  },
+  {
+    "key": "plugins.sellMultiple.warning",
+    "en": "This is an automation feature, your account could potentially be banned if you are abusing of it, are you sure you want to enable it?"
+  },
+  {
+    "key": "plugins.sellMultiple.notifications.maxPlayersReached",
+    "en": "You have reached the limit of {players} players you can listÂº"
+  },
+  {
+    "key": "plugins.sellMultiple.notifications.wait",
+    "en": "Please wait {seconds} seconds before performing another list"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.title",
+    "en": "Display Extra Card Information"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.alternatePositions",
+    "en": "Display alternative positions"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.skillMoves",
+    "en": "Display skill moves"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.weakFoot",
+    "en": "Display weak foot"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.untradeable",
+    "en": "Display untradeable icon"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.pristine",
+    "en": "Display if a card is pristine (1 owner) only on search results"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.league",
+    "en": "Display League"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.importantLeague",
+    "en": "Highlight Important League"
+  },
+  {
+    "key": "plugins.playerCardInfo.settings.workrates",
+    "en": "Work Rates"
+  },
+  {
+    "key": "plugins.trackTransactions.settings.title",
+    "en": "Save Transactions Information"
+  },
+  {
+    "key": "plugins.sellProfit.settings.title",
+    "en": "Show sell profit"
+  },
+  {
+    "key": "plugins.sellProfit.realProfit.text",
+    "en": "Profit"
+  },
+  {
+    "key": "plugins.sellProfit.expectedProfit.text",
+    "en": "Expected Profit"
+  },
+  {
+    "key": "plugins.importantLeaguesAndNations.settings.title",
+    "en": "Important Leagues and Nations"
+  },
+  {
+    "key": "plugins.refreshCoins.settings.title",
+    "en": "Refresh Coins"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.settings.title",
+    "en": "Ratings Calculator"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.buttons.openDialog",
+    "en": "Calculate Missing Ratings"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.table.rating",
+    "en": "Rating"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.table.count",
+    "en": "Count"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.buttons.calculate",
+    "en": "Calculate"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.dialog.title",
+    "en": "Ratings Calculator"
+  },
+  {
+    "key": "plugins.sbcRatingCalculator.dialog.ranges.title",
+    "en": "Ratings to try"
+  },
+  {
+    "key": "plugins.claimObjectives.settings.title",
+    "en": "Claim All Rewards"
+  },
+  {
+    "key": "plugins.claimObjectives.button.text",
+    "en": "Claim All Rewards"
+  },
+  {
+    "key": "plugins.claimObjectives.button.loading",
+    "en": "Claiming Rewards"
+  },
+  {
+    "key": "plugins.packsOpener.settings.title",
+    "en": "Packs Opener"
+  },
+  {
+    "key": "plugins.packsOpener.button.text",
+    "en": "Open Pack"
+  },
+  {
+    "key": "plugins.packsOpener.button.subtext",
+    "en": "Automatically"
+  },
+  {
+    "key": "plugins.packsOpener.purchaseAction.moveToClub",
+    "en": "Move To Club"
+  },
+  {
+    "key": "plugins.packsOpener.purchaseAction.moveToTransferList",
+    "en": "Move To Transfer List"
+  },
+  {
+    "key": "plugins.packsOpener.purchaseAction.quickSell",
+    "en": "Quick Sell"
+  },
+  {
+    "key": "plugins.packsOpener.purchaseAction.stopProcess",
+    "en": "Stop Buying Packs"
+  },
+  {
+    "key": "plugins.packsOpener.errors.missingPack",
+    "en": "No pack has been selected"
+  },
+  {
+    "key": "plugins.packsOpener.errors.generic",
+    "en": "There has been an error opening the pack"
+  },
+  {
+    "key": "plugins.packsOpener.errors.transferListFull",
+    "en": "The transfer list is full"
+  },
+  {
+    "key": "plugins.packsOpener.packsRemaining",
+    "en": "Only # packs left to be opened"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.players",
+    "en": "¿What should I do with players?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.duplicatePlayers",
+    "en": "¿What should I do with duplicated players?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.managers",
+    "en": "¿What should I do with managers?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.duplicateManagers",
+    "en": "¿What should I do with duplicated managers?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.items",
+    "en": "¿What should I do with items that are NOT players and NOT managers?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.duplicateItems",
+    "en": "¿What should I do with duplicated items that are NOT players and NOT managers?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.purchaseAction.transferListFull",
+    "en": "¿What should I do when the transfer list is full?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.currency",
+    "en": "Type of currency to use"
+  },
+  {
+    "key": "plugins.packsOpener.labels.packsCount",
+    "en": "¿How many packs should I open?"
+  },
+  {
+    "key": "plugins.packsOpener.labels.speed",
+    "en": "Open Speed"
+  },
+  {
+    "key": "plugins.packsOpener.speed.slow",
+    "en": "Slow"
+  },
+  {
+    "key": "plugins.packsOpener.speed.fast",
+    "en": "Fast"
+  },
+  {
+    "key": "plugins.packsOpener.packResult.title",
+    "en": "Pack Opener Result"
+  },
+  {
+    "key": "plugins.packsOpener.results.club",
+    "en": "Sent To Club"
+  },
+  {
+    "key": "plugins.packsOpener.results.storage",
+    "en": "Sent To Storage"
+  },
+  {
+    "key": "plugins.packsOpener.results.transferList",
+    "en": "Sent To Transfer List"
+  },
+  {
+    "key": "plugins.packsOpener.results.unassigned",
+    "en": "Unassigned"
+  },
+  {
+    "key": "plugins.packsOpener.results.discarded",
+    "en": "Discarded"
+  },
+  {
+    "key": "plugins.packsOpener.packResult.html",
+    "en": "<ul><li><b>Opened Packs:</b><span>{packs}</span></li><li><b>Total Players:</b><span>{players}</span></li><li><b>Players sent to Club:</b><span>{playersToClub}</span></li><li><b>Players sent to Transfer list:</b><span>{playersToTransfer}</span></li><li><b>Discarded Players:</b><span>{playersDiscarded}</span></li><li><b>Duplicated Players:</b><span>{duplicatedPlayers}</span></li><li><b>Total Managers:</b><span>{managers}</span></li><li><b>Managers sent to Club:</b><span>{managersToClub}</span></li><li><b>Managers sent to Transfer List:</b><span>{managersToTransfer}</span></li><li><b>Discarded Managers:</b><span>{managersDiscarded}</span></li><li><b>Duplicated Managers:</b><span>{duplicatedManagers}</span></li><li><b>Total Items:</b><span>{items}</span></li><li><b>Items sent to Club:</b><span>{itemsToClub}</span></li><li><b>Items sent to Transfer List:</b><span>{itemsToTransfer}</span></li><li><b>Discarded Items:</b><span>{itemsDiscarded}</span></li><li><b>Duplicated Items:</b><span>{duplicatedItems}</span></li><li><b>Coins Spent:</b><span>{coinsSpent}</span></li><li><b>Coins Earned:</b><span>{coinsEarned}</span></li></ul>"
+  },
+  {
+    "key": "plugins.decimalRating.settings.title",
+    "en": "Decimal Rating"
+  },
+  {
+    "key": "plugins.lowestMarketPrice.button.text",
+    "en": "Find Lowest Market Price"
+  },
+  {
+    "key": "plugins.lowestMarketPrice.settings.title",
+    "en": "Lowest Market Price"
+  },
+  {
+    "key": "plugins.repeatSbc.button.text",
+    "en": "Repeat Search"
+  },
+  {
+    "key": "plugins.repeatSbc.settings.title",
+    "en": "Repeat SBC Search"
+  },
+  {
+    "key": "plugins.goToPackStore.settings.title",
+    "en": "Go To Pack Store"
+  },
+  {
+    "key": "plugins.benchManagement.settings.title",
+    "en": "Subs Management"
+  },
+  {
+    "key": "plugins.benchManagement.buttons.sendToField",
+    "en": "Send To Field"
+  },
+  {
+    "key": "plugins.benchManagement.buttons.sendToFieldKeepPos",
+    "en": "Send to Field to Position"
+  },
+  {
+    "key": "plugins.benchManagement.buttons.sendToClub",
+    "en": "Send to Club"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.title",
+    "en": "Lock Players"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.lockByNation",
+    "en": "Lock By Nation"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.lockByLeague",
+    "en": "Lock By League"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.lockByClub",
+    "en": "Lock By Club"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.lockByRarity",
+    "en": "Lock By Rarity"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.nation",
+    "en": "Nation"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.league",
+    "en": "League"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.clubLeague",
+    "en": "Club League"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.club",
+    "en": "Club"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.rarity",
+    "en": "Special Card Type"
+  },
+  {
+    "key": "plugins.lockPlayers.settings.select",
+    "en": "Select..."
+  },
+  {
+    "key": "plugins.lockPlayers.button.massLock",
+    "en": "Lock / Unlock Players"
+  },
+  {
+    "key": "plugins.lockPlayers.messages.sbcWarning",
+    "en": "SBC Aborted - You have locked players in your squad"
+  },
+  {
+    "key": "plugins.lockPlayers.playerAction.lock",
+    "en": "Lock Player"
+  },
+  {
+    "key": "plugins.lockPlayers.playerAction.unlock",
+    "en": "Unlock Player"
+  },
+  {
+    "key": "plugins.lockPlayers.clubHub.tile",
+    "en": "Locked Players"
+  },
+  {
+    "key": "plugins.lockPlayers.duplicated.dialogTitle",
+    "en": "Locked Duplicated Players"
+  },
+  {
+    "key": "plugins.lockPlayers.duplicated.dialogText",
+    "en": "Do you want to send locked duplicated players?"
+  },
+  {
+    "key": "plugins.lockPlayers.import.dialogTitle",
+    "en": "Import Locked Players"
+  },
+  {
+    "key": "plugins.duplicatedToSbc.button.text",
+    "en": "Use duplicated players"
+  },
+  {
+    "key": "plugins.duplicatedToSbc.settings.title",
+    "en": "Duplicated to SBC"
+  },
+  {
+    "key": "plugins.unassignedToSbc.button.text",
+    "en": "Use unassigned players"
+  },
+  {
+    "key": "plugins.unassignedToSbc.settings.title",
+    "en": "Unassigned to SBC"
+  },
+  {
+    "key": "plugins.transferListToSbc.button.text",
+    "en": "Use Transfer List players"
+  },
+  {
+    "key": "plugins.transferListToSbc.settings.title",
+    "en": "Transfer List to SBC"
+  },
+  {
+    "key": "plugins.improvedFilters.settings.title",
+    "en": "Improved Filters"
+  },
+  {
+    "key": "plugins.improvedFilters.gridFilters",
+    "en": "Grid Mode"
+  },
+  {
+    "key": "plugins.improvedFilters.countClubPlayers",
+    "en": "Count Club Players"
+  },
+  {
+    "key": "plugins.improvedFilters.orderByImportantLeagues",
+    "en": "Important Leagues at the top"
+  },
+  {
+    "key": "plugins.removeExchangePlayersButton.settings.title",
+    "en": "Remove Exchange Players Button"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.settings.title",
+    "en": "SBC Template Builder"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.buttons.edit",
+    "en": "Edit SBC Template"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.buttons.use",
+    "en": "Build Using Template"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.settings.stopOnRequirementsMet",
+    "en": "Stop processing then the SBC requirements are met"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.buttons.global",
+    "en": "SBC Templates"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.editor.selectGlobal",
+    "en": "-- Select a Global Template --"
+  },
+  {
+    "key": "plugins.sbcTemplateBuilder.exclusions.title",
+    "en": "Exclusions"
+  },
+  {
+    "key": "plugins.autoRelist.settings.title",
+    "en": "Auto Relist Unsold Items"
+  },
+  {
+    "key": "plugins.autoRelist.toggle.text",
+    "en": "Auto Relist"
+  },
+  {
+    "key": "plugins.claimSbcRewards.settings.title",
+    "en": "Auto Reclaim SBC Rewards"
+  },
+  {
+    "key": "plugins.sbcChallengesView.settings.title",
+    "en": "SBC Challenges View"
+  },
+  {
+    "key": "plugins.sbcChallengesView.settings.gridMode",
+    "en": "Grid Mode"
+  },
+  {
+    "key": "plugins.sbcChallengesView.settings.hideCompleted",
+    "en": "Hide Completed"
+  },
+  {
+    "key": "plugins.sbcChallengesView.settings.displayTOTW",
+    "en": "Display TOTW Tag"
+  },
+  {
+    "key": "plugins.addMultiplePlayersToSquad.settings.title",
+    "en": "Add Multiple Players To Squad"
+  },
+  {
+    "key": "plugins.addMultiplePlayersToSquad.button",
+    "en": "Add Multiple Players"
+  },
+  {
+    "key": "groupBy",
+    "en": "Group by"
+  },
+  {
+    "key": "groupBy.none",
+    "en": "None"
+  },
+  {
+    "key": "groupBy.nation",
+    "en": "Nation"
+  },
+  {
+    "key": "groupBy.league",
+    "en": "League"
+  },
+  {
+    "key": "groupBy.team",
+    "en": "Team"
+  },
+  {
+    "key": "plugins.hiddenInjury.settings.title",
+    "en": "Hidden Injuries"
+  },
+  {
+    "key": "plugins.babysitter.settings.title",
+    "en": "Babysitter"
+  },
+  {
+    "key": "plugins.babysitter.sbc.delay",
+    "en": "Delay (seconds)"
+  },
+  {
+    "key": "plugins.babysitter.sbc.delayAfter",
+    "en": "Execute after (SBC count)"
+  },
+  {
+    "key": "plugins.babysitter.warning",
+    "en": "You are not allowed to send an SBC, please wait #SECONDS# seconds"
+  },
+  {
+    "key": "plugins.playerPicks.settings.title",
+    "en": "Player Picks"
+  },
+  {
+    "key": "plugins.playerPicks.hideout.enabled",
+    "en": "Hideout"
+  },
+  {
+    "key": "plugins.playerPicks.hideout.button.text",
+    "en": "Redeem with Hideout"
+  },
+  {
+    "key": "plugins.playerPicks.maxRating.enabled",
+    "en": "Max Rating"
+  },
+  {
+    "key": "plugins.playerPicks.clubTradeable.enabled",
+    "en": "Club Tradeable"
+  },
+  {
+    "key": "plugins.playerPicks.palePicks",
+    "en": "Pale Picks"
+  },
+  {
+    "key": "plugins.unassignedGoBack.settings.title",
+    "en": "Unassigned Go Back"
+  },
+  {
+    "key": "plugins.externalMarketPrices.settings.title",
+    "en": "External Market Prices"
+  },
+  {
+    "key": "plugins.externalMarketPrices.pricesLastUpdated",
+    "en": "Prices last updated - {date}"
+  },
+  {
+    "key": "plugins.whatsnew.settings.title",
+    "en": "What's New"
+  },
+  {
+    "key": "plugins.whatsnew.settings.interval",
+    "en": "Interval"
+  },
+  {
+    "key": "plugins.whatsnew.settings.updateHours",
+    "en": "Update Hours"
+  },
+  {
+    "key": "plugins.unassignedOrganize.settings.title",
+    "en": "Organize Unassigned"
+  },
+  {
+    "key": "plugins.unassignedOrganize.settings.displayButton",
+    "en": "Display Button"
+  },
+  {
+    "key": "plugins.hideSbcs.settings.title",
+    "en": "Hide SBC"
+  },
+  {
+    "key": "plugins.hideSbcs.buttons.showAll",
+    "en": "Show All SBCs"
+  },
+  {
+    "key": "plugins.backup.import.warning.title",
+    "en": "WARNING"
+  },
+  {
+    "key": "plugins.backup.import.warning.text",
+    "en": "<p>The import process will clear all your data before inserting the new one</p><br /><br /><h3>Are you sure you want to proceed?</h3><br /><br />"
+  },
+  {
+    "key": "plugins.warningScreen.title",
+    "en": "PALETOOLS - USAGE WARNING"
+  },
+  {
+    "key": "plugins.warningScreen.disclaimer",
+    "en": "<p>Dear user, since Paletools allows you to perform actions that were not design by EA and allows you to be much quicker in the usage of the WebApp you are at a potential risk of ban from EA</p><p><br /></p><p>Therefore you shall use it at your own discretion and you should be very cautious</p><p><br /></p><p>If you perform too many snipes in a row you might get a soft market ban or even worst a <b>permanent ban from the transfer market</b></p><p><br /></p><p>Please <b>USE THIS TOOL AT YOUR OWN RISK</b></p><p><br /></p><p>Thanks a have a nice day!</p>"
+  },
+  {
+    "key": "plugins.eaBugFixer.settings.title",
+    "en": "Fix EA mistakes"
+  },
+  {
+    "key": "plugins.removeRoundedCorners.settings.title",
+    "en": "Remove Rounded Corners"
+  }
+]
